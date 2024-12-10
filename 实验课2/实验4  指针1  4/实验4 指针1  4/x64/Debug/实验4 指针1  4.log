@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\Little a\Desktop\实验课2\实验4 指针1  4\源.cpp(8,6): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\Little a\Desktop\实验课2\实验4 指针1  4\源.cpp(6,1): warning C4172: 返回局部变量的地址或临时 : list
+  实验4 指针1  4.vcxproj -> D:\Little a\Desktop\实验课2\实验4 指针1  4\x64\Debug\实验4 指针1  4.exe

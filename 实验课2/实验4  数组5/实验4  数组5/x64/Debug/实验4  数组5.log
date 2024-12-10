@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\Little a\Desktop\实验课2\实验4  数组5\源.cpp(5,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Little a\Desktop\实验课2\实验4  数组5\源.cpp(6,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  实验4  数组5.vcxproj -> D:\Little a\Desktop\实验课2\实验4  数组5\x64\Debug\实验4  数组5.exe
