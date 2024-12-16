@@ -1,0 +1,2 @@
+﻿  student.cpp
+D:\Little a\Desktop\实验课3\实验5  2\student.cpp(14,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
